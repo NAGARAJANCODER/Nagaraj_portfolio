@@ -10071,3 +10071,62 @@ body.tw-magic-cursor #magic-cursor {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+/* tools & technologies grid */
+.brand-tool {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+.brand-tool img {
+  width: 56px;
+  height: 56px;
+  object-fit: contain;
+  filter: grayscale(1) contrast(1.2);
+}
+.brand-tool--color img {
+  filter: none;
+}
+.brand-tool-name {
+  font-weight: 600;
+  font-size: 18px;
+  color: #111;
+}
+.brand-hover-media.brand-tool {
+  border-radius: 0;
+}
+.brand-more[hidden] {
+  display: none !important;
+}
+.brand-more:not([hidden]) {
+  animation: toolsFadeIn 0.5s ease both;
+}
+@keyframes toolsFadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: none; }
+}
+.tools-toggle-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 14px 32px;
+  border: 0;
+  border-radius: 999px;
+  background: #000;
+  color: #fff;
+  font-weight: 600;
+  font-size: 16px;
+  cursor: pointer;
+  transition: transform 0.2s ease, background 0.2s ease;
+}
+.tools-toggle-btn:hover {
+  background: #222;
+  transform: translateY(-2px);
+}
+.tools-toggle-btn i {
+  transition: transform 0.3s ease;
+}
+.tools-toggle-btn.is-open i {
+  transform: rotate(180deg);
+}

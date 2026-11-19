@@ -1,4 +1,4 @@
-# 🚀 Shan Portfolio
+# 🚀 Nagaraj Portfolio
 
 <div align="center">
 
@@ -6,17 +6,6 @@
 
 A premium personal portfolio built with modern frontend technologies, smooth animations, and a clean UI to showcase projects, skills, and experience.
 
-<p>
-  <a href="https://shan-portfolioo.netlify.app">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-00C853?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/shajith23/shan-portfolio">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://img.shields.io/github/stars/shajith23/shan-portfolio?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/shajith23/shan-portfolio?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/shajith23/shan-portfolio?style=for-the-badge" />
-</p>
 
 </div>
 
@@ -25,14 +14,6 @@ A premium personal portfolio built with modern frontend technologies, smooth ani
 ## ✨ Preview
 
 > A modern portfolio crafted to leave a strong first impression with smooth animations, responsive layouts, elegant typography, and a premium user experience.
-
-### 🔗 Live Website
-
-**https://shan-portfolioo.netlify.app**
-
-### 💻 GitHub Repository
-
-**https://github.com/shajith23/shan-portfolio**
 
 ---
 
@@ -57,7 +38,7 @@ A premium personal portfolio built with modern frontend technologies, smooth ani
 
 # 🚀 Overview
 
-Shan Portfolio is a modern personal portfolio website built to showcase projects, skills, achievements, and services.
+Nagaraj Portfolio is a modern personal portfolio website built to showcase projects, skills, achievements, and services.
 
 The website focuses on:
 
@@ -148,7 +129,7 @@ Works perfectly on:
 # 📁 Folder Structure
 
 ```text
-shan-portfolio/
+nagaraj-portfolio/
 │
 ├── index.html
 ├── README.md
@@ -169,13 +150,13 @@ shan-portfolio/
 Clone the repository
 
 ```bash
-git clone https://github.com/shajith23/shan-portfolio.git
+git clone <your-repository-url>
 ```
 
 Open project
 
 ```bash
-cd shan-portfolio
+cd nagaraj-portfolio
 ```
 
 ---
@@ -239,7 +220,7 @@ git commit -m "Initial Commit"
 
 git branch -M main
 
-git remote add origin https://github.com/shajith23/shan-portfolio.git
+git remote add origin <your-repository-url>
 
 git push -u origin main
 ```
@@ -382,15 +363,11 @@ This project is available for personal and commercial portfolio use.
 
 # 👨‍💻 Developer
 
-**Shajith (Shan)**
+**Nagaraj**
 
-### Portfolio
-
-https://shan-portfolioo.netlify.app
-
-### GitHub
-
-https://github.com/shajith23
+- 📧 nagarajcoder.py@gmail.com
+- 📞 +91 93441 46547
+- 📍 Gandhipuram, Coimbatore, Tamil Nadu
 
 ---
 
@@ -398,6 +375,6 @@ https://github.com/shajith23
 
 ### ⭐ If you like this project, don't forget to Star the Repository!
 
-Made with ❤️ by **Shajith**
+Made with ❤️ by **Nagaraj**
 
 </div>
